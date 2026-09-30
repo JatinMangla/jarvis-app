@@ -1,0 +1,10 @@
+{
+  "versionCode": 4,
+  "versionName": "0.2.0",
+  "apk": "https://raw.githubusercontent.com/JatinMangla/jarvis-app/main/apk/jarvis-0.2.0.apk",
+  "sha256": "36b9a7fcbb743379afdd75ca941aeabde2ba38ae5b57d84a18af4f42b0f8a89e",
+  "size": 3335836,
+  "minSdk": 29,
+  "signerSha256": "d9c29311a095569ad60a0c896787bdb748a6a52029fab3baa97cc78fde12f995",
+  "published": "2026-09-30T22:02:06Z"
+}
